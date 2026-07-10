@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Assistant",
+  "description": "An AI-powered web assistant to upload multiple research papers (PDFs) and perform RAG, summarization, methodology extraction, multi-paper comparison, and quiz generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
